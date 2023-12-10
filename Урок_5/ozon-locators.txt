@@ -1,0 +1,7 @@
+
+Локаторы:
+Локатор кнопки Войти: //button[contains(text(), 'Войти')]
+Локатор кнопки Заказы6 //a[contains(text(), 'Заказы')]
+Локатор ссылки OZON Job (в футере): //a[contains(text(), 'OZON Job')]
+Локатор выбора валюты (верхний левый угол страницы): //div[@class='header-l']//span[@class='icon-dynamic']
+Локатор выпадашки Везде (в поисковой строке): //input[@placeholder='Искать на Ozon']//following-sibling::div[@class='search__suggest']

@@ -1,0 +1,9 @@
+
+Локаторы:
+Локатор логотипа (html-елемент, содержащий в себе значок и слово "авиасейлс"): <div class="header__logo"></div>;
+Локатор поля Откуда: <input class="input input_origin" name="origin" placeholder="Откуда" type="text">;
+Локатор поля Куда: <input class="input input__destination" name="destination" placeholder="Куда" type="text">;
+Локатор поля Когда: <input class="input input_depart-date" name="depart_date" placeholder="Когда" type="text">;
+Локатор поля Обратно: <input class="input input_return-date" name="return_date" placeholder="Обратно" type="text">;
+Локатор чек-бокса "Открыть Ostrovok.ru в новой вкладке": <input class="checkbox__visual" id="open-ostrovok-in-new-tab">;
+Локатор кнопки Найти билеты: <button class="button" type="submit">Найти билеты</button>.
